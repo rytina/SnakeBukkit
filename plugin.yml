@@ -1,0 +1,8 @@
+name: Snake
+main: com.github.rytina.snake.Snake
+version: 0.1
+api-version: 1.16
+commands:
+   snake:
+      description: Create a retro snake arcade
+      usage: /snake

@@ -1,0 +1,43 @@
+World: TEMP
+FirstCorner:
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+SecondCorner:
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+UpArrow:
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+DownArrow:
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+LeftArrow:
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+RightArrow:
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+StartButton:
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+LeaderBoard:
+  X: TEMP
+  Y: TEMP
+  Z: TEMP
+HighScores:
+  1:
+    Name: MetalFingerz
+    Score: 30
+  2:
+    Name: MFDOOM
+    Score: 20
+  3:
+    Name: Geedorah
+    Score: 10
